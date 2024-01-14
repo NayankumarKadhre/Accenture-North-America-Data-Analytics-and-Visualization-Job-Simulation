@@ -2,7 +2,7 @@
 
 This repository showcases a simulation project based on the Accenture North America Data Analytics and Visualization Job Simulation: https://www.theforage.com/simulations/accenture-nam/data-analytics-mmlb offered by The Forage.
 
-#### What is it?
+### What is it?
 
 This project replicates the key tasks and challenges faced by data analysts and visualization specialists at Accenture North America. By completing this simulation, I gained practical experience in:
 
@@ -11,7 +11,7 @@ This project replicates the key tasks and challenges faced by data analysts and 
 - Data Visualization: Crafting compelling and informative dashboards, charts, and graphs to communicate data-driven insights.
 - Client Communication: Presenting findings to a simulated client, effectively communicating complex information in a clear and concise manner.
 
-#### Key Skills Demonstrated:
+### Key Skills Demonstrated:
 
 - Proficiency in data cleaning and manipulation using Microsoft Excel.
 - Strong analytical thinking and problem-solving skills.
@@ -19,12 +19,12 @@ This project replicates the key tasks and challenges faced by data analysts and 
 - Expertise in creating impactful and clear data visualizations using Pivot Table and Pivot Chart.
 - Effective communication and storytelling skills to present insights to diverse audiences.
 
-#### Project Highlights:
+### Project Highlights:
 
 - Cleaned, modelled and analyzed 7 datasets to uncover insights into content trends to inform strategic decisions
 - Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders
 
-#### Value for Recruiters:
+### Value for Recruiters:
 
 This project demonstrates my practical understanding of data analytics and visualization in a simulated professional setting. It showcases my ability to:
 
